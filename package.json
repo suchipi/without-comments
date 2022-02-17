@@ -14,7 +14,9 @@
     "lines",
     "remove",
     "strip",
-    "without"
+    "without",
+    "line",
+    "trailing"
   ],
   "author": "Lily Scott <me@suchipi.com>",
   "license": "MIT",
