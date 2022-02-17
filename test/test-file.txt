@@ -1,0 +1,7 @@
+# line comment
+someValue
+another value bla bla bla
+valueWithTrailingComment # isn't that nice
+
+
+        anotherOne
